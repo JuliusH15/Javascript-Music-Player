@@ -1,0 +1,11 @@
+.track-number {
+    display: flex;
+    justify-content: center;
+}
+
+.now-playing {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
